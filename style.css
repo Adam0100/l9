@@ -1,0 +1,21 @@
+.menu-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 2;
+}
+
+.bar {
+    width: 35px;
+    height: 5px;
+    margin: 6px 0;
+    background-color: #000;
+}
+
+.menu {
+    position: fixed;
+    bottom: 60px;
+    right: 20px;
+    z-index: 1;
+    display: none;
+}
